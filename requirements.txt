@@ -1,0 +1,15 @@
+streamlit
+agno
+groq
+icalendar
+google-search-results
+googlesearch-python
+pycountry
+aiohttp
+requests
+
+
+
+
+
+
